@@ -44,9 +44,6 @@ I'm a software development student who loves technology and everything related i
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorLiz&show_icons=true&theme=highcontrast)
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorLiz&layout=compact&langs_count=7&theme=dark"/>
-
 
 ### Connect with me ###
 
