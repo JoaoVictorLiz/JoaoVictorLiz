@@ -29,7 +29,6 @@ I'm a software development student who loves technology and everything related i
 
 **Mobile Skills** <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="html" width="50" height="50" style="max-width:100%;"></img>
 
 
 
