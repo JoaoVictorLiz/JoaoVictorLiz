@@ -1,6 +1,6 @@
 ## Hi there 🖖, I'm João Victor Liz 
 
-I'm a web developer who loves technology and everything related it, I always try to learn new things and improve myself in this area.
+I'm a web developer who loves technology and everything related to it, I'm always looking to learn new things and improve myself in this area, if you want to connect with me I'll be very happy.
 
 - I live in :brazil:, from the state of Rio Grande do Sul.
 - Enthusiast about the best **web development** and **mobile** technologies.
