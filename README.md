@@ -23,6 +23,7 @@ I'm a web developer who loves technology and everything related to it, I'm alway
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://firebirdsql.org/file/about/firebird-logo-48.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
 
 
 **Mobile Skills** <br>
